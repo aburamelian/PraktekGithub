@@ -1,0 +1,38 @@
+Teknologi Open Source dan Terbaru
+
+What will you learn
+-Open Source
+-Big Data
+-Internet of Things (Arduino)
+
+-Karl fogel Producing Open Source
+- Open Source Voices from the open source evolution
+- Beginner Arduino
+- Getting started with apache spark
+- The Docker Book
+
+Apps
+
+-Github Client
+-Phyton
+-Apache Spark
+-Arduino Studio
+-Docker
+
+Presentasi
+1. Lisensi Open Source Baik untuk software maupun non software
+2. Bisnis Open Source dan software propietary
+
+Praktikum
+
+Github+Markdown
+Docker
+Docker+Github
+Apache Spark
+Arduino
+
+
+
+Free Software - sw yng mmnuhi 4 freedom
+Freeware - Cuman diberi executable
+Shareware - Hanya fitur tertentu yg dibagikan - trialnya saja misal 
